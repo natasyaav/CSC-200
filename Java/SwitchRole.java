@@ -20,3 +20,4 @@ public class SwitchRole {
 		JOptionPane.showMessageDialog(null,"Welcome " + userRole + "!");
 }
 }
+
